@@ -1,0 +1,1 @@
+g++ mainP.cpp include/bstP.cpp include/customErrorClass.cpp
