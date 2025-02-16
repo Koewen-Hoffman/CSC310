@@ -1,0 +1,6 @@
+How does splaying affect the balance of the tree in the long term (e.g., across multiple operations)? How does this affect the amortized running time of O (log n) 
+
+The balance of the tree is affected by becoming more balanced, if a node is inserted then splayed
+although the tree may not be sorted, the tree is balanced as things get pushed down after a splay of a node.
+Amortized-wise, the splay tree has a constant time complexity becaseu of the miz of the different complezitites
+for each of the operations being performed.
