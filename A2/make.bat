@@ -1,0 +1,1 @@
+g++ dsw.cpp Includes/customErrorClass.cpp main.cpp
